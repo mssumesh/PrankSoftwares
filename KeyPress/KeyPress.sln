@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyPress", "KeyPress\KeyPress.vcproj", "{C20CBBB6-AF72-471B-8E69-5FBB11465EC1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyPressUninst", "KeyPressUninst\KeyPressUninst.vcproj", "{D62FC50C-0DAC-4118-BEC6-2DB967A5779C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20CBBB6-AF72-471B-8E69-5FBB11465EC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C20CBBB6-AF72-471B-8E69-5FBB11465EC1}.Debug|Win32.Build.0 = Debug|Win32
+		{C20CBBB6-AF72-471B-8E69-5FBB11465EC1}.Release|Win32.ActiveCfg = Release|Win32
+		{C20CBBB6-AF72-471B-8E69-5FBB11465EC1}.Release|Win32.Build.0 = Release|Win32
+		{D62FC50C-0DAC-4118-BEC6-2DB967A5779C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D62FC50C-0DAC-4118-BEC6-2DB967A5779C}.Debug|Win32.Build.0 = Debug|Win32
+		{D62FC50C-0DAC-4118-BEC6-2DB967A5779C}.Release|Win32.ActiveCfg = Release|Win32
+		{D62FC50C-0DAC-4118-BEC6-2DB967A5779C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

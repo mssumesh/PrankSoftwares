@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlipScreen", "FlipScreen\FlipScreen.vcproj", "{8472294B-058F-4D73-A33C-D76BBDEFF176}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlipScreenUninstall", "FlipScreenUninstall\FlipScreenUninstall.vcproj", "{D6DBF044-8CD1-4F78-86E0-E15065DC214F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8472294B-058F-4D73-A33C-D76BBDEFF176}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8472294B-058F-4D73-A33C-D76BBDEFF176}.Debug|Win32.Build.0 = Debug|Win32
+		{8472294B-058F-4D73-A33C-D76BBDEFF176}.Release|Win32.ActiveCfg = Release|Win32
+		{8472294B-058F-4D73-A33C-D76BBDEFF176}.Release|Win32.Build.0 = Release|Win32
+		{D6DBF044-8CD1-4F78-86E0-E15065DC214F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6DBF044-8CD1-4F78-86E0-E15065DC214F}.Debug|Win32.Build.0 = Debug|Win32
+		{D6DBF044-8CD1-4F78-86E0-E15065DC214F}.Release|Win32.ActiveCfg = Release|Win32
+		{D6DBF044-8CD1-4F78-86E0-E15065DC214F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseClick", "MouseClick\MouseClick.vcproj", "{E71B51E6-3775-4C85-B2F7-BFA068800897}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseClickUninst", "MouseClickUninst\MouseClickUninst.vcproj", "{62D5A4EB-746F-4F4E-B48E-31B8D84AC82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71B51E6-3775-4C85-B2F7-BFA068800897}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E71B51E6-3775-4C85-B2F7-BFA068800897}.Debug|Win32.Build.0 = Debug|Win32
+		{E71B51E6-3775-4C85-B2F7-BFA068800897}.Release|Win32.ActiveCfg = Release|Win32
+		{E71B51E6-3775-4C85-B2F7-BFA068800897}.Release|Win32.Build.0 = Release|Win32
+		{62D5A4EB-746F-4F4E-B48E-31B8D84AC82A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62D5A4EB-746F-4F4E-B48E-31B8D84AC82A}.Debug|Win32.Build.0 = Debug|Win32
+		{62D5A4EB-746F-4F4E-B48E-31B8D84AC82A}.Release|Win32.ActiveCfg = Release|Win32
+		{62D5A4EB-746F-4F4E-B48E-31B8D84AC82A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

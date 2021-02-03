@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhotoPopup", "PhotoPopup\PhotoPopup.vcproj", "{30BFECED-109D-4DD0-AB0F-4E14EB7153E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhotoPopupUninst", "PhotoPopupUninst\PhotoPopupUninst.vcproj", "{5B21AAC2-37B4-4DDC-AFD7-2775412FD54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BFECED-109D-4DD0-AB0F-4E14EB7153E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30BFECED-109D-4DD0-AB0F-4E14EB7153E1}.Debug|Win32.Build.0 = Debug|Win32
+		{30BFECED-109D-4DD0-AB0F-4E14EB7153E1}.Release|Win32.ActiveCfg = Release|Win32
+		{30BFECED-109D-4DD0-AB0F-4E14EB7153E1}.Release|Win32.Build.0 = Release|Win32
+		{5B21AAC2-37B4-4DDC-AFD7-2775412FD54E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B21AAC2-37B4-4DDC-AFD7-2775412FD54E}.Debug|Win32.Build.0 = Debug|Win32
+		{5B21AAC2-37B4-4DDC-AFD7-2775412FD54E}.Release|Win32.ActiveCfg = Release|Win32
+		{5B21AAC2-37B4-4DDC-AFD7-2775412FD54E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

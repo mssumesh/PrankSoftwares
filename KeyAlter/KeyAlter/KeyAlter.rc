@@ -1,0 +1,120 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_URL                 ICON                    "url.ico"
+IDI_BIG                 ICON                    "big.ico"
+IDI_SMALL               ICON                    "small.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDBMP_LOGO              BITMAP                  "logo.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUT DIALOGEX 0, 0, 175, 108
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Key Alter Prank v1.0"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Ok",IDB_OK,67,86,40,19
+    CONTROL         1001,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE,6,12,43,39
+    LTEXT           "KeyAlter v 1.0",IDC_STATIC,80,15,51,9
+    LTEXT           "Copyright (c) [2021] PrankBoss.com",IDS_CRIGHT,55,31,120,10
+    LTEXT           "All Rights Reserverd",IDC_STATIC,71,42,67,10
+    LTEXT           "For more pranks like this, please visit:",IDC_STATIC,25,62,126,9
+    LTEXT           "http://www.prankboss.com",IDC_STATIC,41,71,93,9
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 168
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 100
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

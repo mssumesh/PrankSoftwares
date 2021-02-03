@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimePrank", "TimePrank\TimePrank.vcproj", "{D331528E-2F92-4EDB-A0F5-2010AFE90638}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimePrankUninst", "TimePrankUninst\TimePrankUninst.vcproj", "{007B41ED-671C-40D1-9496-8EFCFDD5D4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D331528E-2F92-4EDB-A0F5-2010AFE90638}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D331528E-2F92-4EDB-A0F5-2010AFE90638}.Debug|Win32.Build.0 = Debug|Win32
+		{D331528E-2F92-4EDB-A0F5-2010AFE90638}.Release|Win32.ActiveCfg = Release|Win32
+		{D331528E-2F92-4EDB-A0F5-2010AFE90638}.Release|Win32.Build.0 = Release|Win32
+		{007B41ED-671C-40D1-9496-8EFCFDD5D4A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{007B41ED-671C-40D1-9496-8EFCFDD5D4A0}.Debug|Win32.Build.0 = Debug|Win32
+		{007B41ED-671C-40D1-9496-8EFCFDD5D4A0}.Release|Win32.ActiveCfg = Release|Win32
+		{007B41ED-671C-40D1-9496-8EFCFDD5D4A0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

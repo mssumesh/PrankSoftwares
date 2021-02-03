@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenBlank", "ScreenBlank\ScreenBlank.vcproj", "{40768221-CD14-4BE1-98CB-442A2C4DA087}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenBlankUninst", "ScreenBlankUninst\ScreenBlankUninst.vcproj", "{65594D7D-D38E-417C-900E-BA6CC44B4A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40768221-CD14-4BE1-98CB-442A2C4DA087}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40768221-CD14-4BE1-98CB-442A2C4DA087}.Debug|Win32.Build.0 = Debug|Win32
+		{40768221-CD14-4BE1-98CB-442A2C4DA087}.Release|Win32.ActiveCfg = Release|Win32
+		{40768221-CD14-4BE1-98CB-442A2C4DA087}.Release|Win32.Build.0 = Release|Win32
+		{65594D7D-D38E-417C-900E-BA6CC44B4A4E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65594D7D-D38E-417C-900E-BA6CC44B4A4E}.Debug|Win32.Build.0 = Debug|Win32
+		{65594D7D-D38E-417C-900E-BA6CC44B4A4E}.Release|Win32.ActiveCfg = Release|Win32
+		{65594D7D-D38E-417C-900E-BA6CC44B4A4E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

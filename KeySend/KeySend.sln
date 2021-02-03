@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeySend", "KeySend\KeySend.vcproj", "{1055074D-166A-48D4-BFF4-B80D17BCC922}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeySendUninst", "KeySendUninst\KeySendUninst.vcproj", "{9E23D910-12D5-4485-A2D8-313573C62E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		light|Win32 = light|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1055074D-166A-48D4-BFF4-B80D17BCC922}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1055074D-166A-48D4-BFF4-B80D17BCC922}.Debug|Win32.Build.0 = Debug|Win32
+		{1055074D-166A-48D4-BFF4-B80D17BCC922}.light|Win32.ActiveCfg = light|Win32
+		{1055074D-166A-48D4-BFF4-B80D17BCC922}.light|Win32.Build.0 = light|Win32
+		{1055074D-166A-48D4-BFF4-B80D17BCC922}.Release|Win32.ActiveCfg = Release|Win32
+		{1055074D-166A-48D4-BFF4-B80D17BCC922}.Release|Win32.Build.0 = Release|Win32
+		{9E23D910-12D5-4485-A2D8-313573C62E0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E23D910-12D5-4485-A2D8-313573C62E0F}.Debug|Win32.Build.0 = Debug|Win32
+		{9E23D910-12D5-4485-A2D8-313573C62E0F}.light|Win32.ActiveCfg = light|Win32
+		{9E23D910-12D5-4485-A2D8-313573C62E0F}.light|Win32.Build.0 = light|Win32
+		{9E23D910-12D5-4485-A2D8-313573C62E0F}.Release|Win32.ActiveCfg = Release|Win32
+		{9E23D910-12D5-4485-A2D8-313573C62E0F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
